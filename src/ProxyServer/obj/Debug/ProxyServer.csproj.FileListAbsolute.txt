@@ -1,0 +1,20 @@
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\bin\Debug\ProxySever.exe.config
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\bin\Debug\ProxySever.exe
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\bin\Debug\ProxySever.pdb
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\obj\Debug\ProxyServer.ProxyServer.resources
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\obj\Debug\ProxySever.Properties.Resources.resources
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\obj\Debug\ProxyServer.csproj.GenerateResource.cache
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\obj\Debug\ProxyServer.csproj.CoreCompileInputs.cache
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\obj\Debug\ProxySever.exe
+C:\Users\I5567\Desktop\1712824_1712828_1712855\src\ProxyServer\obj\Debug\ProxySever.pdb
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\bin\Debug\ProxySever.exe.config
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\bin\Debug\ProxySever.exe
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\bin\Debug\ProxySever.pdb
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\obj\Debug\ProxyServer.csprojAssemblyReference.cache
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\obj\Debug\ProxyServer.ProxyServer.resources
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\obj\Debug\ProxySever.Properties.Resources.resources
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\obj\Debug\ProxyServer.csproj.GenerateResource.cache
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\obj\Debug\ProxyServer.csproj.CoreCompileInputs.cache
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\obj\Debug\ProxySever.exe
+D:\Tài liệu CŨ\Mạng máy tính\DA1\src\ProxyServer\obj\Debug\ProxySever.pdb
